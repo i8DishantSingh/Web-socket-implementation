@@ -1,4 +1,3 @@
 # Web-socket Implementation  
 
-
-In this tiny repository, I have demonstrated basic Web-socket implementation in python via onsided terminal-based chat system.
+In this tiny repository, I tried and learned basic web-socket programming via simple one-sided terminal-based chat system. Insprired from 'yt: ByteMonk'.
